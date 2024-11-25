@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.pixabay.com/video/2020/01/12/31175-384523301_large.mp4"  />
+  <source height="150" src="https://cdn.pixabay.com/video/2020/01/12/31175-384523301_large.mp4" type="video/mp4" />
 </div>
 
 ###
